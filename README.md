@@ -69,11 +69,10 @@
 ---
 
 ## 🚀 Featured Projects
+ 
+> - [DOSESYNC- HEALTH ASSISTANT](https://github.com/antrasharma15/Med-Tracker): DoseSync — A smart medicine reminder and tracking system that helps users manage medications, schedules, and health routines efficiently.
+> - [ayurveda-clinic](https://github.com/antrasharma15/ayurveda-clinic): Ayurveda Clinic Homepage — A responsive static website for an Ayurveda clinic featuring a modern homepage layout, customizable content, and clean UI built with PHP, HTML, and CSS.
 
-> *(Replace these with your best works!)*  
-> - [Project Name 1](https://github.com/antrasharma15/your-project): Short line about what it does.
-> - [Project Name 2](https://github.com/antrasharma15/your-project): Key techs/features.
-> - [More projects...](https://github.com/antrasharma15?tab=repositories)
 
 ---
 
