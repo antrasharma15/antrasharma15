@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Antra Sharma
 
-**Full Stack Web Developer | AI/ML Enthusiast**
+**Full Stack Developer | AI/ML Enthusiast**
 
 ✨ Passionate about transforming creative ideas into real-world web applications.
 
@@ -16,9 +16,9 @@
 
 - 🔭 I’m currently working on **Full Stack MERN Projects**
 - 🌱 I’m currently learning **React, Node.js, AI/ML and modern web technologies**
-- 👯 I’m looking to collaborate on **Web Development & AI/ML Projects**
+- 👯 I’m looking to collaborate on **Development & AI/ML Projects**
 - 🤝 Open for help with **Advanced React and Machine Learning**
-- 💬 Ask me about **React, JavaScript, Python and Frontend Development**
+- 💬 Ask me about **React, JavaScript, Python and Full Stack Development**
 - 📫 Reach me at **antra150906@gmail.com**
 - ⚡ Fun fact: *I enjoy transforming creative ideas into real-world web applications.*
 
