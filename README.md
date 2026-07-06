@@ -100,7 +100,9 @@
 ---
 
 ## 🚀 Featured Projects
- 
+
+> - [SmartERP](https://github.com/antrasharma15/SmartERP): Smart ERP solution for streamlined business operations.
+> - [document-signature-app](https://github.com/antrasharma15/document-signature-app): Digital document signature app for secure e-sign workflows.
 
 ---
 
