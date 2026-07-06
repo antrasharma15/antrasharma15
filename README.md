@@ -24,6 +24,32 @@
 
 ---
 
+## 🛠️ Skills
+
+- Next.js
+- TypeScript
+- Tailwind CSS v4
+- Node.js
+- Express
+- PostgreSQL
+- Nodemailer
+- React 19
+- Vite
+- Framer Motion
+- Axios
+- React PDF
+- Lucide Icons
+- Multer
+- pdf-lib
+- validator
+- MongoDB Atlas
+- JWT
+- bcryptjs
+- Vercel
+- Render
+
+---
+
 ## ⚡ Tech Stack
 
 ![React](https://img.shields.io/badge/-React-222222?logo=react&logoColor=61DAFB)
@@ -70,8 +96,8 @@
 
 ## 🚀 Featured Projects
  
-> - [DOSESYNC- HEALTH ASSISTANT](https://github.com/antrasharma15/Med-Tracker): DoseSync — A smart medicine reminder and tracking system that helps users manage medications, schedules, and health routines efficiently.
-> - [ayurveda-clinic](https://github.com/antrasharma15/ayurveda-clinic): Ayurveda Clinic Homepage — A responsive static website for an Ayurveda clinic featuring a modern homepage layout, customizable content, and clean UI built with PHP, HTML, and CSS.
+> - [DOSESYNC- HEALTH ASSISTANT](https://github.com/antrasharma15/Med-Tracker): DoseSync — A smart medicine reminder and tracking system that helps users manage medications, schedules, and health.
+> - [ayurveda-clinic](https://github.com/antrasharma15/ayurveda-clinic): Ayurveda Clinic Homepage — A responsive static website for an Ayurveda clinic featuring a modern homepage layout.
 
 
 ---
