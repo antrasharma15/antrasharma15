@@ -26,27 +26,32 @@
 
 ## 🛠️ Skills
 
-- Next.js
-- TypeScript
-- Tailwind CSS v4
-- Node.js
-- Express
-- PostgreSQL
-- Nodemailer
-- React 19
-- Vite
-- Framer Motion
-- Axios
-- React PDF
-- Lucide Icons
-- Multer
-- pdf-lib
-- validator
-- MongoDB Atlas
-- JWT
-- bcryptjs
-- Vercel
-- Render
+### Core Technologies
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=1a1a1a)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![bcryptjs](https://img.shields.io/badge/bcryptjs-8A2BE2?style=flat&logo=javascript&logoColor=white)
+
+### Libraries, Tools & Deployment
+
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-222222?style=flat&logo=framer&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-222222?style=flat&logo=axios&logoColor=5A29E4)
+![React PDF](https://img.shields.io/badge/React_PDF-222222?style=flat&logo=react&logoColor=61DAFB)
+![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-222222?style=flat&logo=lucide&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-222222?style=flat&logo=gmail&logoColor=EA4335)
+![Multer](https://img.shields.io/badge/Multer-222222?style=flat&logo=nodedotjs&logoColor=339933)
+![pdf-lib](https://img.shields.io/badge/pdf--lib-222222?style=flat&logo=adobeacrobatreader&logoColor=white)
+![validator](https://img.shields.io/badge/validator-222222?style=flat&logo=checkmarx&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-222222?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-222222?style=flat&logo=render&logoColor=46E3B7)
 
 ---
 
@@ -96,7 +101,7 @@
 
 ## 🚀 Featured Projects
  
-> - [DOSESYNC- HEALTH ASSISTANT](https://github.com/antrasharma15/Med-Tracker): DoseSync — A smart medicine reminder and tracking system that helps users manage medications, schedules, and health.
+> - [DOSESYNC- HEALTH ASSISTANT](https://github.com/antrasharma15/Med-Tracker): DoseSync — A smart medicine reminder and tracking system that helps users manage medications, schedules, and healt[...]
 > - [ayurveda-clinic](https://github.com/antrasharma15/ayurveda-clinic): Ayurveda Clinic Homepage — A responsive static website for an Ayurveda clinic featuring a modern homepage layout.
 
 
