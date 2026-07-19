@@ -6,11 +6,11 @@ I enjoy turning complex problems into clean, maintainable solutions and continuo
 ---
 
 ## 🚀 Current Focus
-
-- 🔭 Building robust backend and full-stack projects
-- 🌱 Deepening expertise in system design, cloud, and performance optimization
-- 🤝 Open to collaborating on meaningful open-source and product-focused projects
-- 💬 Interested in engineering best practices, developer productivity, and clean architecture
+-  Currently learning Core Java and DSA.  
+-  Building robust backend and full-stack projects
+-  Deepening expertise in system design, cloud, and performance optimization
+-  Open to collaborating on meaningful open-source and product-focused projects
+-  Interested in engineering best practices, developer productivity, and clean architecture
 
 ---
 
